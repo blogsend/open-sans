@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FontFaceKit/open-sans"
+    "url": "git+https://github.com/FontFaceKit/open-sans.git"
   },
   "license": "Apache-2.0",
   "ignore": [
@@ -51,5 +51,6 @@
     "IE 10",
     "Firefox ESR"
   ],
-  "dependencies": {}
+  "dependencies": {},
+  "author": ""
 }
